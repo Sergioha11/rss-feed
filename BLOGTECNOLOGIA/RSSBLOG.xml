@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Blog de Tecnología</title>
+        <link>https://www.tublogdetecnologia.com</link>
+        <description>Las últimas noticias, reseñas y tutoriales del mundo de la tecnología.</description>
+        <language>es</language>
+        <pubDate>Fri, 21 Apr 2025 16:00:00 +0000</pubDate>
+
+        <!-- Artículo 1 -->
+        <item>
+            <title>¿Qué es ChatGPT y cómo funciona?</title>
+            <link>https://www.tublogdetecnologia.com/chatgpt</link>
+            <description>Descubre el impacto de la inteligencia artificial conversacional en nuestra vida diaria.</description>
+            <pubDate>Fri, 21 Apr 2025 15:00:00 +0000</pubDate>
+            <category>Inteligencia Artificial</category>
+        </item>
+
+        <!-- Artículo 2 -->
+        <item>
+            <title>Top 5 Gadgets para Mejorar tu Productividad</title>
+            <link>https://www.tublogdetecnologia.com/gadgets-productividad</link>
+            <description>Una lista de herramientas tecnológicas que te ayudarán a ser más eficiente en tu trabajo diario.</description>
+            <pubDate>Thu, 20 Apr 2025 10:00:00 +0000</pubDate>
+            <category>Gadgets</category>
+        </item>
+
+    </channel>
+</rss>
